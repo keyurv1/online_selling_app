@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85095029121",
+    "project_id": "olxfirebasereact-7ff21",
+    "storage_bucket": "olxfirebasereact-7ff21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85095029121:android:0d6466a841a9c1d23a3080",
+        "android_client_info": {
+          "package_name": "com.onlinesellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85095029121-le45m087ob4g0g5pmdlg6hbtalcisui0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAWXLoI9D1uoKldUmqOoZsxtlSOfecQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85095029121-le45m087ob4g0g5pmdlg6hbtalcisui0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
